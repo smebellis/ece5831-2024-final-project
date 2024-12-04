@@ -93,7 +93,7 @@ Before getting started with predict_pro, ensure your runtime environment meets t
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/smebellis/predict_pro](https://github.com/smebellis/ece5831-2024-final-project.git)
+git clone https://github.com/smebellis/ece5831-2024-final-project.git
 
 ```
 
