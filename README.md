@@ -93,13 +93,13 @@ Before getting started with predict_pro, ensure your runtime environment meets t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/smebellis/predict_pro
+[git clone https://github.com/smebellis/predict_pro](https://github.com/smebellis/ece5831-2024-final-project.git)
 
 ```
 
 Navigate to the project directory:
 
-`❯ cd predict_pro`
+`❯ cd ece5831-2024-final-project`
 
 Install the project dependencies:
 
@@ -107,10 +107,12 @@ Using pip
 
 `❯ pip install -r requirements.txt`
 
-Change branches
+Execute cells in Juypter Notebook
+- Make sure the train.zip file is downloaded and located in `/data` directory, or follow the steps above to Download from Kaggle API
+1. `open final-project.ipynb`
+2. `execute cells in oder`
 
-`> git checkout demo`
-
+Alternatively 
 1. Run preprocessing pipeline:
 - `python scripts/run_preprocessing_pipeline.py`
 2. Run Clustering pipeline:
@@ -120,9 +122,7 @@ Change branches
 4. Train the model
 - `python src/train.py`
 
-Alternatively
-1. `open final-project.ipynb`
-2. `execute cells in oder`
+
 
 ## Authors
 
