@@ -72,6 +72,9 @@ To find where kaggle is installed, run:
 
     If using the Kaggle CLI, the tool automatically searches for the token in these locations.
     If using the API programmatically, ensure you provide the path to your `kaggle.json` file at runtime.
+
+## Final Project Folder
+[Predict Pro Final Project Folder](https://drive.google.com/drive/folders/1PjjznEtcnL3zVr-F-CQLCPsdQyfdi7SR?usp=drive_link)
 ## Presentation
 
 [Presentation Link](https://google.com)
