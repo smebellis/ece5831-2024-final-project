@@ -1,3 +1,18 @@
+## Final Project Folder
+[Predict Pro Final Project Folder](https://drive.google.com/drive/folders/1PjjznEtcnL3zVr-F-CQLCPsdQyfdi7SR?usp=drive_link)
+## Presentation
+
+[Presentation Link](https://drive.google.com/drive/folders/1RFKXuKI3j1omHWS6owo4TJJc_oRcNt8e?usp=drive_link)
+## Final Report
+
+[Final Report Link](https://drive.google.com/file/d/1XSEGkLgptA1-eePTCwSZxg2GHmGxwIjz/view?usp=drive_link)
+
+## Videos
+
+[Final Presentation Video](https://youtu.be/l_XONPSdp_A)
+
+[Demo Video](https://youtu.be/cffwHUfAOmo)
+
 
 # Predict Pro: 
 
@@ -73,17 +88,6 @@ To find where kaggle is installed, run:
     If using the Kaggle CLI, the tool automatically searches for the token in these locations.
     If using the API programmatically, ensure you provide the path to your `kaggle.json` file at runtime.
 
-## Final Project Folder
-[Predict Pro Final Project Folder](https://drive.google.com/drive/folders/1PjjznEtcnL3zVr-F-CQLCPsdQyfdi7SR?usp=drive_link)
-## Presentation
-
-[Presentation Link](https://drive.google.com/drive/folders/1RFKXuKI3j1omHWS6owo4TJJc_oRcNt8e?usp=drive_link)
-## Final Report
-
-[Final Report Link](https://drive.google.com/file/d/1XSEGkLgptA1-eePTCwSZxg2GHmGxwIjz/view?usp=drive_link)
-## Demo Video
-
-[Demo Video](https://youtu.be/cffwHUfAOmo)
 
 ## Getting Started
 
