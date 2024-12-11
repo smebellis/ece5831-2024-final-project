@@ -77,7 +77,7 @@ To find where kaggle is installed, run:
 [Predict Pro Final Project Folder](https://drive.google.com/drive/folders/1PjjznEtcnL3zVr-F-CQLCPsdQyfdi7SR?usp=drive_link)
 ## Presentation
 
-[Presentation Link](https://google.com)
+[Presentation Link](https://drive.google.com/drive/folders/1RFKXuKI3j1omHWS6owo4TJJc_oRcNt8e?usp=drive_link)
 ## Final Report
 
 [Final Report Link](https://drive.google.com/file/d/1XSEGkLgptA1-eePTCwSZxg2GHmGxwIjz/view?usp=drive_link)
